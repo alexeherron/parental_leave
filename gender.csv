@@ -1,0 +1,832 @@
+,COU,Country,IND,Indicator,TIME,Time,Value
+0,AUS,Australia,EMP9_1,Gender wage gap at 1st decile (bottom),2000,2000,9.8
+1,AUS,Australia,EMP9_1,Gender wage gap at 1st decile (bottom),2005,2005,2.0
+2,AUS,Australia,EMP9_1,Gender wage gap at 1st decile (bottom),2010,2010,5.5
+3,AUS,Australia,EMP9_1,Gender wage gap at 1st decile (bottom),2015,2015,7.5
+4,AUS,Australia,EMP9_1,Gender wage gap at 1st decile (bottom),2016,2016,10.1
+5,AUS,Australia,EMP9_1,Gender wage gap at 1st decile (bottom),2017,2017,6.3
+6,AUS,Australia,EMP9_1,Gender wage gap at 1st decile (bottom),2018,2018,7.4
+7,AUS,Australia,EMP9_9,Gender wage gap at 9th decile (top),2000,2000,26.3
+8,AUS,Australia,EMP9_9,Gender wage gap at 9th decile (top),2005,2005,25.9
+9,AUS,Australia,EMP9_9,Gender wage gap at 9th decile (top),2010,2010,27.3
+10,AUS,Australia,EMP9_9,Gender wage gap at 9th decile (top),2015,2015,24.8
+11,AUS,Australia,EMP9_9,Gender wage gap at 9th decile (top),2016,2016,23.5
+12,AUS,Australia,EMP9_9,Gender wage gap at 9th decile (top),2017,2017,21.9
+13,AUS,Australia,EMP9_9,Gender wage gap at 9th decile (top),2018,2018,20.0
+14,AUT,Austria,EMP9_1,Gender wage gap at 1st decile (bottom),2005,2005,30.5
+15,AUT,Austria,EMP9_1,Gender wage gap at 1st decile (bottom),2010,2010,26.5
+16,AUT,Austria,EMP9_1,Gender wage gap at 1st decile (bottom),2015,2015,21.9
+17,AUT,Austria,EMP9_1,Gender wage gap at 1st decile (bottom),2016,2016,19.0
+18,AUT,Austria,EMP9_1,Gender wage gap at 1st decile (bottom),2017,2017,18.7
+19,AUT,Austria,EMP9_1,Gender wage gap at 1st decile (bottom),2018,2018,18.1
+20,AUT,Austria,EMP9_9,Gender wage gap at 9th decile (top),2005,2005,27.7
+21,AUT,Austria,EMP9_9,Gender wage gap at 9th decile (top),2010,2010,24.5
+22,AUT,Austria,EMP9_9,Gender wage gap at 9th decile (top),2015,2015,22.3
+23,AUT,Austria,EMP9_9,Gender wage gap at 9th decile (top),2016,2016,21.0
+24,AUT,Austria,EMP9_9,Gender wage gap at 9th decile (top),2017,2017,20.7
+25,AUT,Austria,EMP9_9,Gender wage gap at 9th decile (top),2018,2018,20.1
+26,BEL,Belgium,EMP9_1,Gender wage gap at 1st decile (bottom),2000,2000,16.7
+27,BEL,Belgium,EMP9_1,Gender wage gap at 1st decile (bottom),2005,2005,11.9
+28,BEL,Belgium,EMP9_1,Gender wage gap at 1st decile (bottom),2010,2010,8.1
+29,BEL,Belgium,EMP9_1,Gender wage gap at 1st decile (bottom),2015,2015,4.6
+30,BEL,Belgium,EMP9_1,Gender wage gap at 1st decile (bottom),2016,2016,4.3
+31,BEL,Belgium,EMP9_1,Gender wage gap at 1st decile (bottom),2017,2017,5.6
+32,BEL,Belgium,EMP9_9,Gender wage gap at 9th decile (top),2000,2000,20.4
+33,BEL,Belgium,EMP9_9,Gender wage gap at 9th decile (top),2005,2005,18.0
+34,BEL,Belgium,EMP9_9,Gender wage gap at 9th decile (top),2010,2010,12.6
+35,BEL,Belgium,EMP9_9,Gender wage gap at 9th decile (top),2015,2015,9.1
+36,BEL,Belgium,EMP9_9,Gender wage gap at 9th decile (top),2016,2016,10.0
+37,BEL,Belgium,EMP9_9,Gender wage gap at 9th decile (top),2017,2017,6.5
+38,CAN,Canada,EMP9_1,Gender wage gap at 1st decile (bottom),2000,2000,21.1
+39,CAN,Canada,EMP9_1,Gender wage gap at 1st decile (bottom),2005,2005,18.7
+40,CAN,Canada,EMP9_1,Gender wage gap at 1st decile (bottom),2010,2010,16.7
+41,CAN,Canada,EMP9_1,Gender wage gap at 1st decile (bottom),2015,2015,14.8
+42,CAN,Canada,EMP9_1,Gender wage gap at 1st decile (bottom),2016,2016,13.6
+43,CAN,Canada,EMP9_1,Gender wage gap at 1st decile (bottom),2017,2017,14.3
+44,CAN,Canada,EMP9_1,Gender wage gap at 1st decile (bottom),2018,2018,14.0
+45,CAN,Canada,EMP9_1,Gender wage gap at 1st decile (bottom),2019,2019,10.0
+46,CAN,Canada,EMP9_9,Gender wage gap at 9th decile (top),2000,2000,21.1
+47,CAN,Canada,EMP9_9,Gender wage gap at 9th decile (top),2005,2005,17.5
+48,CAN,Canada,EMP9_9,Gender wage gap at 9th decile (top),2010,2010,17.6
+49,CAN,Canada,EMP9_9,Gender wage gap at 9th decile (top),2015,2015,15.7
+50,CAN,Canada,EMP9_9,Gender wage gap at 9th decile (top),2016,2016,16.0
+51,CAN,Canada,EMP9_9,Gender wage gap at 9th decile (top),2017,2017,15.5
+52,CAN,Canada,EMP9_9,Gender wage gap at 9th decile (top),2018,2018,15.9
+53,CAN,Canada,EMP9_9,Gender wage gap at 9th decile (top),2019,2019,16.8
+54,CZE,Czech Republic,EMP9_1,Gender wage gap at 1st decile (bottom),2005,2005,11.9
+55,CZE,Czech Republic,EMP9_1,Gender wage gap at 1st decile (bottom),2010,2010,10.3
+56,CZE,Czech Republic,EMP9_1,Gender wage gap at 1st decile (bottom),2015,2015,7.1
+57,CZE,Czech Republic,EMP9_1,Gender wage gap at 1st decile (bottom),2016,2016,7.5
+58,CZE,Czech Republic,EMP9_1,Gender wage gap at 1st decile (bottom),2017,2017,6.5
+59,CZE,Czech Republic,EMP9_1,Gender wage gap at 1st decile (bottom),2018,2018,5.3
+60,CZE,Czech Republic,EMP9_1,Gender wage gap at 1st decile (bottom),2019,2019,4.6
+61,CZE,Czech Republic,EMP9_9,Gender wage gap at 9th decile (top),2005,2005,24.7
+62,CZE,Czech Republic,EMP9_9,Gender wage gap at 9th decile (top),2010,2010,24.5
+63,CZE,Czech Republic,EMP9_9,Gender wage gap at 9th decile (top),2015,2015,24.7
+64,CZE,Czech Republic,EMP9_9,Gender wage gap at 9th decile (top),2016,2016,23.8
+65,CZE,Czech Republic,EMP9_9,Gender wage gap at 9th decile (top),2017,2017,23.8
+66,CZE,Czech Republic,EMP9_9,Gender wage gap at 9th decile (top),2018,2018,23.2
+67,CZE,Czech Republic,EMP9_9,Gender wage gap at 9th decile (top),2019,2019,22.2
+68,DNK,Denmark,EMP9_1,Gender wage gap at 1st decile (bottom),2005,2005,10.3
+69,DNK,Denmark,EMP9_1,Gender wage gap at 1st decile (bottom),2010,2010,10.3
+70,DNK,Denmark,EMP9_1,Gender wage gap at 1st decile (bottom),2015,2015,8.3
+71,DNK,Denmark,EMP9_1,Gender wage gap at 1st decile (bottom),2016,2016,8.7
+72,DNK,Denmark,EMP9_1,Gender wage gap at 1st decile (bottom),2017,2017,8.7
+73,DNK,Denmark,EMP9_1,Gender wage gap at 1st decile (bottom),2018,2018,8.0
+74,DNK,Denmark,EMP9_9,Gender wage gap at 9th decile (top),2005,2005,20.0
+75,DNK,Denmark,EMP9_9,Gender wage gap at 9th decile (top),2010,2010,17.6
+76,DNK,Denmark,EMP9_9,Gender wage gap at 9th decile (top),2015,2015,14.2
+77,DNK,Denmark,EMP9_9,Gender wage gap at 9th decile (top),2016,2016,13.5
+78,DNK,Denmark,EMP9_9,Gender wage gap at 9th decile (top),2017,2017,12.8
+79,DNK,Denmark,EMP9_9,Gender wage gap at 9th decile (top),2018,2018,12.1
+80,FIN,Finland,EMP9_1,Gender wage gap at 1st decile (bottom),2000,2000,11.3
+81,FIN,Finland,EMP9_1,Gender wage gap at 1st decile (bottom),2005,2005,11.9
+82,FIN,Finland,EMP9_1,Gender wage gap at 1st decile (bottom),2010,2010,9.5
+83,FIN,Finland,EMP9_1,Gender wage gap at 1st decile (bottom),2015,2015,10.6
+84,FIN,Finland,EMP9_1,Gender wage gap at 1st decile (bottom),2016,2016,10.1
+85,FIN,Finland,EMP9_1,Gender wage gap at 1st decile (bottom),2017,2017,9.6
+86,FIN,Finland,EMP9_1,Gender wage gap at 1st decile (bottom),2018,2018,11.9
+87,FIN,Finland,EMP9_9,Gender wage gap at 9th decile (top),2000,2000,29.6
+88,FIN,Finland,EMP9_9,Gender wage gap at 9th decile (top),2005,2005,27.4
+89,FIN,Finland,EMP9_9,Gender wage gap at 9th decile (top),2010,2010,23.3
+90,FIN,Finland,EMP9_9,Gender wage gap at 9th decile (top),2015,2015,23.4
+91,FIN,Finland,EMP9_9,Gender wage gap at 9th decile (top),2016,2016,20.7
+92,FIN,Finland,EMP9_9,Gender wage gap at 9th decile (top),2017,2017,21.1
+93,FIN,Finland,EMP9_9,Gender wage gap at 9th decile (top),2018,2018,23.1
+94,FRA,France,EMP9_1,Gender wage gap at 1st decile (bottom),2010,2010,5.9
+95,FRA,France,EMP9_9,Gender wage gap at 9th decile (top),2010,2010,22.5
+96,DEU,Germany,EMP9_1,Gender wage gap at 1st decile (bottom),2000,2000,24.2
+97,DEU,Germany,EMP9_1,Gender wage gap at 1st decile (bottom),2005,2005,28.6
+98,DEU,Germany,EMP9_1,Gender wage gap at 1st decile (bottom),2010,2010,19.2
+99,DEU,Germany,EMP9_1,Gender wage gap at 1st decile (bottom),2015,2015,16.7
+100,DEU,Germany,EMP9_1,Gender wage gap at 1st decile (bottom),2016,2016,14.8
+101,DEU,Germany,EMP9_1,Gender wage gap at 1st decile (bottom),2017,2017,11.1
+102,DEU,Germany,EMP9_1,Gender wage gap at 1st decile (bottom),2018,2018,14.5
+103,DEU,Germany,EMP9_9,Gender wage gap at 9th decile (top),2000,2000,28.6
+104,DEU,Germany,EMP9_9,Gender wage gap at 9th decile (top),2005,2005,22.7
+105,DEU,Germany,EMP9_9,Gender wage gap at 9th decile (top),2010,2010,21.8
+106,DEU,Germany,EMP9_9,Gender wage gap at 9th decile (top),2015,2015,23.0
+107,DEU,Germany,EMP9_9,Gender wage gap at 9th decile (top),2016,2016,22.9
+108,DEU,Germany,EMP9_9,Gender wage gap at 9th decile (top),2017,2017,21.0
+109,DEU,Germany,EMP9_9,Gender wage gap at 9th decile (top),2018,2018,21.9
+110,GRC,Greece,EMP9_1,Gender wage gap at 1st decile (bottom),2010,2010,5.5
+111,GRC,Greece,EMP9_1,Gender wage gap at 1st decile (bottom),2018,2018,5.3
+112,GRC,Greece,EMP9_9,Gender wage gap at 9th decile (top),2010,2010,29.5
+113,GRC,Greece,EMP9_9,Gender wage gap at 9th decile (top),2018,2018,22.3
+114,HUN,Hungary,EMP9_1,Gender wage gap at 1st decile (bottom),2000,2000,1.2
+115,HUN,Hungary,EMP9_9,Gender wage gap at 9th decile (top),2000,2000,25.4
+116,HUN,Hungary,EMP9_9,Gender wage gap at 9th decile (top),2005,2005,19.2
+117,HUN,Hungary,EMP9_9,Gender wage gap at 9th decile (top),2010,2010,22.3
+118,HUN,Hungary,EMP9_9,Gender wage gap at 9th decile (top),2015,2015,24.6
+119,HUN,Hungary,EMP9_9,Gender wage gap at 9th decile (top),2016,2016,24.6
+120,ISL,Iceland,EMP9_1,Gender wage gap at 1st decile (bottom),2010,2010,16.8
+121,ISL,Iceland,EMP9_9,Gender wage gap at 9th decile (top),2010,2010,23.3
+122,IRL,Ireland,EMP9_1,Gender wage gap at 1st decile (bottom),2010,2010,14.4
+123,IRL,Ireland,EMP9_9,Gender wage gap at 9th decile (top),2010,2010,19.6
+124,ITA,Italy,EMP9_1,Gender wage gap at 1st decile (bottom),2000,2000,11.1
+125,ITA,Italy,EMP9_1,Gender wage gap at 1st decile (bottom),2010,2010,3.3
+126,ITA,Italy,EMP9_9,Gender wage gap at 9th decile (top),2000,2000,22.2
+127,ITA,Italy,EMP9_9,Gender wage gap at 9th decile (top),2010,2010,19.5
+128,JPN,Japan,EMP9_1,Gender wage gap at 1st decile (bottom),2000,2000,26.8
+129,JPN,Japan,EMP9_1,Gender wage gap at 1st decile (bottom),2005,2005,27.5
+130,JPN,Japan,EMP9_1,Gender wage gap at 1st decile (bottom),2010,2010,22.7
+131,JPN,Japan,EMP9_1,Gender wage gap at 1st decile (bottom),2015,2015,18.5
+132,JPN,Japan,EMP9_1,Gender wage gap at 1st decile (bottom),2016,2016,18.3
+133,JPN,Japan,EMP9_1,Gender wage gap at 1st decile (bottom),2017,2017,17.9
+134,JPN,Japan,EMP9_1,Gender wage gap at 1st decile (bottom),2018,2018,17.2
+135,JPN,Japan,EMP9_1,Gender wage gap at 1st decile (bottom),2019,2019,17.0
+136,JPN,Japan,EMP9_9,Gender wage gap at 9th decile (top),2000,2000,38.9
+137,JPN,Japan,EMP9_9,Gender wage gap at 9th decile (top),2005,2005,38.4
+138,JPN,Japan,EMP9_9,Gender wage gap at 9th decile (top),2010,2010,34.8
+139,JPN,Japan,EMP9_9,Gender wage gap at 9th decile (top),2015,2015,33.1
+140,JPN,Japan,EMP9_9,Gender wage gap at 9th decile (top),2016,2016,32.3
+141,JPN,Japan,EMP9_9,Gender wage gap at 9th decile (top),2017,2017,32.0
+142,JPN,Japan,EMP9_9,Gender wage gap at 9th decile (top),2018,2018,32.7
+143,JPN,Japan,EMP9_9,Gender wage gap at 9th decile (top),2019,2019,31.3
+144,KOR,Korea,EMP9_1,Gender wage gap at 1st decile (bottom),2000,2000,26.9
+145,KOR,Korea,EMP9_1,Gender wage gap at 1st decile (bottom),2005,2005,20.7
+146,KOR,Korea,EMP9_1,Gender wage gap at 1st decile (bottom),2010,2010,20.5
+147,KOR,Korea,EMP9_1,Gender wage gap at 1st decile (bottom),2015,2015,16.1
+148,KOR,Korea,EMP9_1,Gender wage gap at 1st decile (bottom),2016,2016,15.4
+149,KOR,Korea,EMP9_1,Gender wage gap at 1st decile (bottom),2017,2017,10.6
+150,KOR,Korea,EMP9_1,Gender wage gap at 1st decile (bottom),2018,2018,7.7
+151,KOR,Korea,EMP9_1,Gender wage gap at 1st decile (bottom),2019,2019,7.3
+152,KOR,Korea,EMP9_9,Gender wage gap at 9th decile (top),2000,2000,39.5
+153,KOR,Korea,EMP9_9,Gender wage gap at 9th decile (top),2005,2005,41.9
+154,KOR,Korea,EMP9_9,Gender wage gap at 9th decile (top),2010,2010,39.6
+155,KOR,Korea,EMP9_9,Gender wage gap at 9th decile (top),2015,2015,38.7
+156,KOR,Korea,EMP9_9,Gender wage gap at 9th decile (top),2016,2016,38.2
+157,KOR,Korea,EMP9_9,Gender wage gap at 9th decile (top),2017,2017,37.3
+158,KOR,Korea,EMP9_9,Gender wage gap at 9th decile (top),2018,2018,36.2
+159,KOR,Korea,EMP9_9,Gender wage gap at 9th decile (top),2019,2019,35.3
+160,LUX,Luxembourg,EMP9_1,Gender wage gap at 1st decile (bottom),2010,2010,11.7
+161,LUX,Luxembourg,EMP9_9,Gender wage gap at 9th decile (top),2010,2010,15.3
+162,MEX,Mexico,EMP9_1,Gender wage gap at 1st decile (bottom),2005,2005,12.5
+163,MEX,Mexico,EMP9_1,Gender wage gap at 1st decile (bottom),2010,2010,16.7
+164,MEX,Mexico,EMP9_1,Gender wage gap at 1st decile (bottom),2015,2015,14.0
+165,MEX,Mexico,EMP9_1,Gender wage gap at 1st decile (bottom),2016,2016,14.3
+166,MEX,Mexico,EMP9_1,Gender wage gap at 1st decile (bottom),2017,2017,13.2
+167,MEX,Mexico,EMP9_1,Gender wage gap at 1st decile (bottom),2018,2018,12.5
+168,MEX,Mexico,EMP9_1,Gender wage gap at 1st decile (bottom),2019,2019,11.1
+169,MEX,Mexico,EMP9_9,Gender wage gap at 9th decile (top),2005,2005,16.3
+170,MEX,Mexico,EMP9_9,Gender wage gap at 9th decile (top),2010,2010,11.1
+171,MEX,Mexico,EMP9_9,Gender wage gap at 9th decile (top),2015,2015,2.0
+172,MEX,Mexico,EMP9_9,Gender wage gap at 9th decile (top),2016,2016,7.0
+173,MEX,Mexico,EMP9_9,Gender wage gap at 9th decile (top),2017,2017,7.0
+174,MEX,Mexico,EMP9_9,Gender wage gap at 9th decile (top),2018,2018,13.2
+175,MEX,Mexico,EMP9_9,Gender wage gap at 9th decile (top),2019,2019,10.4
+176,NLD,Netherlands,EMP9_1,Gender wage gap at 1st decile (bottom),2010,2010,16.0
+177,NLD,Netherlands,EMP9_9,Gender wage gap at 9th decile (top),2010,2010,22.3
+178,NZL,New Zealand,EMP9_1,Gender wage gap at 1st decile (bottom),2000,2000,6.7
+179,NZL,New Zealand,EMP9_1,Gender wage gap at 1st decile (bottom),2005,2005,5.7
+180,NZL,New Zealand,EMP9_1,Gender wage gap at 1st decile (bottom),2010,2010,2.1
+181,NZL,New Zealand,EMP9_1,Gender wage gap at 1st decile (bottom),2015,2015,1.9
+182,NZL,New Zealand,EMP9_1,Gender wage gap at 1st decile (bottom),2016,2016,4.7
+183,NZL,New Zealand,EMP9_1,Gender wage gap at 1st decile (bottom),2017,2017,3.5
+184,NZL,New Zealand,EMP9_1,Gender wage gap at 1st decile (bottom),2018,2018,1.4
+185,NZL,New Zealand,EMP9_1,Gender wage gap at 1st decile (bottom),2019,2019,2.7
+186,NZL,New Zealand,EMP9_9,Gender wage gap at 9th decile (top),2000,2000,16.7
+187,NZL,New Zealand,EMP9_9,Gender wage gap at 9th decile (top),2005,2005,20.8
+188,NZL,New Zealand,EMP9_9,Gender wage gap at 9th decile (top),2010,2010,18.3
+189,NZL,New Zealand,EMP9_9,Gender wage gap at 9th decile (top),2015,2015,20.3
+190,NZL,New Zealand,EMP9_9,Gender wage gap at 9th decile (top),2016,2016,19.8
+191,NZL,New Zealand,EMP9_9,Gender wage gap at 9th decile (top),2017,2017,17.0
+192,NZL,New Zealand,EMP9_9,Gender wage gap at 9th decile (top),2018,2018,18.4
+193,NZL,New Zealand,EMP9_9,Gender wage gap at 9th decile (top),2019,2019,16.4
+194,NOR,Norway,EMP9_1,Gender wage gap at 1st decile (bottom),2000,2000,7.5
+195,NOR,Norway,EMP9_1,Gender wage gap at 1st decile (bottom),2005,2005,4.3
+196,NOR,Norway,EMP9_1,Gender wage gap at 1st decile (bottom),2010,2010,4.0
+197,NOR,Norway,EMP9_1,Gender wage gap at 1st decile (bottom),2015,2015,2.3
+198,NOR,Norway,EMP9_1,Gender wage gap at 1st decile (bottom),2016,2016,5.4
+199,NOR,Norway,EMP9_1,Gender wage gap at 1st decile (bottom),2017,2017,5.2
+200,NOR,Norway,EMP9_1,Gender wage gap at 1st decile (bottom),2018,2018,3.7
+201,NOR,Norway,EMP9_1,Gender wage gap at 1st decile (bottom),2019,2019,4.1
+202,NOR,Norway,EMP9_9,Gender wage gap at 9th decile (top),2000,2000,23.4
+203,NOR,Norway,EMP9_9,Gender wage gap at 9th decile (top),2005,2005,22.0
+204,NOR,Norway,EMP9_9,Gender wage gap at 9th decile (top),2010,2010,22.2
+205,NOR,Norway,EMP9_9,Gender wage gap at 9th decile (top),2015,2015,21.9
+206,NOR,Norway,EMP9_9,Gender wage gap at 9th decile (top),2016,2016,20.3
+207,NOR,Norway,EMP9_9,Gender wage gap at 9th decile (top),2017,2017,19.4
+208,NOR,Norway,EMP9_9,Gender wage gap at 9th decile (top),2018,2018,18.5
+209,NOR,Norway,EMP9_9,Gender wage gap at 9th decile (top),2019,2019,18.3
+210,POL,Poland,EMP9_9,Gender wage gap at 9th decile (top),2010,2010,20.6
+211,POL,Poland,EMP9_9,Gender wage gap at 9th decile (top),2016,2016,22.0
+212,POL,Poland,EMP9_9,Gender wage gap at 9th decile (top),2018,2018,23.3
+213,PRT,Portugal,EMP9_1,Gender wage gap at 1st decile (bottom),2010,2010,9.6
+214,PRT,Portugal,EMP9_1,Gender wage gap at 1st decile (bottom),2018,2018,1.7
+215,PRT,Portugal,EMP9_9,Gender wage gap at 9th decile (top),2010,2010,12.5
+216,PRT,Portugal,EMP9_9,Gender wage gap at 9th decile (top),2018,2018,13.1
+217,SVK,Slovak Republic,EMP9_1,Gender wage gap at 1st decile (bottom),2005,2005,17.4
+218,SVK,Slovak Republic,EMP9_1,Gender wage gap at 1st decile (bottom),2010,2010,5.5
+219,SVK,Slovak Republic,EMP9_1,Gender wage gap at 1st decile (bottom),2015,2015,3.8
+220,SVK,Slovak Republic,EMP9_1,Gender wage gap at 1st decile (bottom),2016,2016,5.1
+221,SVK,Slovak Republic,EMP9_1,Gender wage gap at 1st decile (bottom),2017,2017,5.5
+222,SVK,Slovak Republic,EMP9_1,Gender wage gap at 1st decile (bottom),2018,2018,5.8
+223,SVK,Slovak Republic,EMP9_1,Gender wage gap at 1st decile (bottom),2019,2019,2.5
+224,SVK,Slovak Republic,EMP9_9,Gender wage gap at 9th decile (top),2005,2005,27.6
+225,SVK,Slovak Republic,EMP9_9,Gender wage gap at 9th decile (top),2010,2010,24.3
+226,SVK,Slovak Republic,EMP9_9,Gender wage gap at 9th decile (top),2015,2015,22.7
+227,SVK,Slovak Republic,EMP9_9,Gender wage gap at 9th decile (top),2016,2016,22.9
+228,SVK,Slovak Republic,EMP9_9,Gender wage gap at 9th decile (top),2017,2017,23.1
+229,SVK,Slovak Republic,EMP9_9,Gender wage gap at 9th decile (top),2018,2018,23.6
+230,SVK,Slovak Republic,EMP9_9,Gender wage gap at 9th decile (top),2019,2019,22.5
+231,ESP,Spain,EMP9_1,Gender wage gap at 1st decile (bottom),2010,2010,12.2
+232,ESP,Spain,EMP9_9,Gender wage gap at 9th decile (top),2010,2010,13.3
+233,SWE,Sweden,EMP9_1,Gender wage gap at 1st decile (bottom),2000,2000,8.0
+234,SWE,Sweden,EMP9_1,Gender wage gap at 1st decile (bottom),2005,2005,5.8
+235,SWE,Sweden,EMP9_1,Gender wage gap at 1st decile (bottom),2010,2010,4.5
+236,SWE,Sweden,EMP9_1,Gender wage gap at 1st decile (bottom),2015,2015,4.1
+237,SWE,Sweden,EMP9_1,Gender wage gap at 1st decile (bottom),2016,2016,3.6
+238,SWE,Sweden,EMP9_1,Gender wage gap at 1st decile (bottom),2017,2017,4.3
+239,SWE,Sweden,EMP9_1,Gender wage gap at 1st decile (bottom),2018,2018,4.2
+240,SWE,Sweden,EMP9_1,Gender wage gap at 1st decile (bottom),2019,2019,3.8
+241,SWE,Sweden,EMP9_9,Gender wage gap at 9th decile (top),2000,2000,27.4
+242,SWE,Sweden,EMP9_9,Gender wage gap at 9th decile (top),2005,2005,25.3
+243,SWE,Sweden,EMP9_9,Gender wage gap at 9th decile (top),2010,2010,21.7
+244,SWE,Sweden,EMP9_9,Gender wage gap at 9th decile (top),2015,2015,18.9
+245,SWE,Sweden,EMP9_9,Gender wage gap at 9th decile (top),2016,2016,17.9
+246,SWE,Sweden,EMP9_9,Gender wage gap at 9th decile (top),2017,2017,16.7
+247,SWE,Sweden,EMP9_9,Gender wage gap at 9th decile (top),2018,2018,15.3
+248,SWE,Sweden,EMP9_9,Gender wage gap at 9th decile (top),2019,2019,14.8
+249,CHE,Switzerland,EMP9_1,Gender wage gap at 1st decile (bottom),2000,2000,23.2
+250,CHE,Switzerland,EMP9_1,Gender wage gap at 1st decile (bottom),2010,2010,19.3
+251,CHE,Switzerland,EMP9_1,Gender wage gap at 1st decile (bottom),2016,2016,14.9
+252,CHE,Switzerland,EMP9_1,Gender wage gap at 1st decile (bottom),2018,2018,14.3
+253,CHE,Switzerland,EMP9_9,Gender wage gap at 9th decile (top),2000,2000,28.5
+254,CHE,Switzerland,EMP9_9,Gender wage gap at 9th decile (top),2010,2010,25.0
+255,CHE,Switzerland,EMP9_9,Gender wage gap at 9th decile (top),2016,2016,20.0
+256,CHE,Switzerland,EMP9_9,Gender wage gap at 9th decile (top),2018,2018,20.2
+257,GBR,United Kingdom,EMP9_1,Gender wage gap at 1st decile (bottom),2000,2000,20.1
+258,GBR,United Kingdom,EMP9_1,Gender wage gap at 1st decile (bottom),2005,2005,15.0
+259,GBR,United Kingdom,EMP9_1,Gender wage gap at 1st decile (bottom),2010,2010,13.7
+260,GBR,United Kingdom,EMP9_1,Gender wage gap at 1st decile (bottom),2015,2015,12.6
+261,GBR,United Kingdom,EMP9_1,Gender wage gap at 1st decile (bottom),2016,2016,11.8
+262,GBR,United Kingdom,EMP9_1,Gender wage gap at 1st decile (bottom),2017,2017,11.4
+263,GBR,United Kingdom,EMP9_1,Gender wage gap at 1st decile (bottom),2018,2018,10.9
+264,GBR,United Kingdom,EMP9_1,Gender wage gap at 1st decile (bottom),2019,2019,10.2
+265,GBR,United Kingdom,EMP9_9,Gender wage gap at 9th decile (top),2000,2000,27.9
+266,GBR,United Kingdom,EMP9_9,Gender wage gap at 9th decile (top),2005,2005,25.9
+267,GBR,United Kingdom,EMP9_9,Gender wage gap at 9th decile (top),2010,2010,25.3
+268,GBR,United Kingdom,EMP9_9,Gender wage gap at 9th decile (top),2015,2015,23.0
+269,GBR,United Kingdom,EMP9_9,Gender wage gap at 9th decile (top),2016,2016,22.5
+270,GBR,United Kingdom,EMP9_9,Gender wage gap at 9th decile (top),2017,2017,22.3
+271,GBR,United Kingdom,EMP9_9,Gender wage gap at 9th decile (top),2018,2018,22.5
+272,GBR,United Kingdom,EMP9_9,Gender wage gap at 9th decile (top),2019,2019,21.6
+273,USA,United States,EMP9_1,Gender wage gap at 1st decile (bottom),2000,2000,13.7
+274,USA,United States,EMP9_1,Gender wage gap at 1st decile (bottom),2005,2005,11.8
+275,USA,United States,EMP9_1,Gender wage gap at 1st decile (bottom),2010,2010,10.9
+276,USA,United States,EMP9_1,Gender wage gap at 1st decile (bottom),2015,2015,9.7
+277,USA,United States,EMP9_1,Gender wage gap at 1st decile (bottom),2016,2016,8.7
+278,USA,United States,EMP9_1,Gender wage gap at 1st decile (bottom),2017,2017,9.9
+279,USA,United States,EMP9_1,Gender wage gap at 1st decile (bottom),2018,2018,13.1
+280,USA,United States,EMP9_1,Gender wage gap at 1st decile (bottom),2019,2019,14.7
+281,USA,United States,EMP9_9,Gender wage gap at 9th decile (top),2000,2000,29.0
+282,USA,United States,EMP9_9,Gender wage gap at 9th decile (top),2005,2005,26.0
+283,USA,United States,EMP9_9,Gender wage gap at 9th decile (top),2010,2010,22.9
+284,USA,United States,EMP9_9,Gender wage gap at 9th decile (top),2015,2015,22.5
+285,USA,United States,EMP9_9,Gender wage gap at 9th decile (top),2016,2016,23.5
+286,USA,United States,EMP9_9,Gender wage gap at 9th decile (top),2017,2017,22.2
+287,USA,United States,EMP9_9,Gender wage gap at 9th decile (top),2018,2018,21.6
+288,USA,United States,EMP9_9,Gender wage gap at 9th decile (top),2019,2019,23.6
+289,CHL,Chile,EMP9_1,Gender wage gap at 1st decile (bottom),2000,2000,12.9
+290,CHL,Chile,EMP9_1,Gender wage gap at 1st decile (bottom),2015,2015,16.7
+291,CHL,Chile,EMP9_1,Gender wage gap at 1st decile (bottom),2017,2017,10.1
+292,CHL,Chile,EMP9_9,Gender wage gap at 9th decile (top),2000,2000,9.8
+293,CHL,Chile,EMP9_9,Gender wage gap at 9th decile (top),2015,2015,15.0
+294,CHL,Chile,EMP9_9,Gender wage gap at 9th decile (top),2017,2017,9.1
+295,COL,Colombia,EMP9_1,Gender wage gap at 1st decile (bottom),2010,2010,50.0
+296,COL,Colombia,EMP9_1,Gender wage gap at 1st decile (bottom),2015,2015,44.0
+297,COL,Colombia,EMP9_1,Gender wage gap at 1st decile (bottom),2016,2016,33.3
+298,COL,Colombia,EMP9_1,Gender wage gap at 1st decile (bottom),2017,2017,40.3
+299,COL,Colombia,EMP9_1,Gender wage gap at 1st decile (bottom),2018,2018,39.6
+300,COL,Colombia,EMP9_1,Gender wage gap at 1st decile (bottom),2019,2019,37.5
+301,COL,Colombia,EMP9_9,Gender wage gap at 9th decile (top),2010,2010,3.9
+302,COL,Colombia,EMP9_9,Gender wage gap at 9th decile (top),2015,2015,0.7
+303,COL,Colombia,EMP9_9,Gender wage gap at 9th decile (top),2016,2016,1.2
+304,CRI,Costa Rica,EMP9_1,Gender wage gap at 1st decile (bottom),2010,2010,30.8
+305,CRI,Costa Rica,EMP9_1,Gender wage gap at 1st decile (bottom),2015,2015,37.2
+306,CRI,Costa Rica,EMP9_1,Gender wage gap at 1st decile (bottom),2016,2016,38.7
+307,CRI,Costa Rica,EMP9_1,Gender wage gap at 1st decile (bottom),2017,2017,36.8
+308,CRI,Costa Rica,EMP9_1,Gender wage gap at 1st decile (bottom),2018,2018,35.6
+309,CRI,Costa Rica,EMP9_1,Gender wage gap at 1st decile (bottom),2019,2019,35.8
+310,CRI,Costa Rica,EMP9_9,Gender wage gap at 9th decile (top),2015,2015,2.1
+311,CRI,Costa Rica,EMP9_9,Gender wage gap at 9th decile (top),2017,2017,6.7
+312,CRI,Costa Rica,EMP9_9,Gender wage gap at 9th decile (top),2019,2019,4.8
+313,EST,Estonia,EMP9_1,Gender wage gap at 1st decile (bottom),2010,2010,17.7
+314,EST,Estonia,EMP9_9,Gender wage gap at 9th decile (top),2010,2010,30.0
+315,ISR,Israel,EMP9_1,Gender wage gap at 1st decile (bottom),2005,2005,17.2
+316,ISR,Israel,EMP9_1,Gender wage gap at 1st decile (bottom),2010,2010,15.3
+317,ISR,Israel,EMP9_1,Gender wage gap at 1st decile (bottom),2015,2015,16.2
+318,ISR,Israel,EMP9_1,Gender wage gap at 1st decile (bottom),2016,2016,13.4
+319,ISR,Israel,EMP9_1,Gender wage gap at 1st decile (bottom),2017,2017,16.5
+320,ISR,Israel,EMP9_1,Gender wage gap at 1st decile (bottom),2018,2018,19.4
+321,ISR,Israel,EMP9_9,Gender wage gap at 9th decile (top),2005,2005,27.2
+322,ISR,Israel,EMP9_9,Gender wage gap at 9th decile (top),2010,2010,28.2
+323,ISR,Israel,EMP9_9,Gender wage gap at 9th decile (top),2015,2015,28.5
+324,ISR,Israel,EMP9_9,Gender wage gap at 9th decile (top),2016,2016,29.9
+325,ISR,Israel,EMP9_9,Gender wage gap at 9th decile (top),2017,2017,30.9
+326,ISR,Israel,EMP9_9,Gender wage gap at 9th decile (top),2018,2018,29.8
+327,LVA,Latvia,EMP9_9,Gender wage gap at 9th decile (top),2010,2010,22.8
+328,LTU,Lithuania,EMP9_1,Gender wage gap at 1st decile (bottom),2010,2010,1.3
+329,LTU,Lithuania,EMP9_9,Gender wage gap at 9th decile (top),2010,2010,22.1
+330,SVN,Slovenia,EMP9_1,Gender wage gap at 1st decile (bottom),2010,2010,0.3
+331,SVN,Slovenia,EMP9_9,Gender wage gap at 9th decile (top),2010,2010,4.3
+332,OAVG,OECD - Average,EMP9_1,Gender wage gap at 1st decile (bottom),2000,2000,13.6
+333,OAVG,OECD - Average,EMP9_1,Gender wage gap at 1st decile (bottom),2005,2005,12.6
+334,OAVG,OECD - Average,EMP9_1,Gender wage gap at 1st decile (bottom),2010,2010,11.7
+335,OAVG,OECD - Average,EMP9_1,Gender wage gap at 1st decile (bottom),2015,2015,11.1
+336,OAVG,OECD - Average,EMP9_1,Gender wage gap at 1st decile (bottom),2016,2016,10.6
+337,OAVG,OECD - Average,EMP9_1,Gender wage gap at 1st decile (bottom),2017,2017,10.4
+338,OAVG,OECD - Average,EMP9_1,Gender wage gap at 1st decile (bottom),2018,2018,10.3
+339,OAVG,OECD - Average,EMP9_9,Gender wage gap at 9th decile (top),2000,2000,23.8
+340,OAVG,OECD - Average,EMP9_9,Gender wage gap at 9th decile (top),2005,2005,22.3
+341,OAVG,OECD - Average,EMP9_9,Gender wage gap at 9th decile (top),2010,2010,19.6
+342,OAVG,OECD - Average,EMP9_9,Gender wage gap at 9th decile (top),2015,2015,19.6
+343,OAVG,OECD - Average,EMP9_9,Gender wage gap at 9th decile (top),2016,2016,19.1
+344,OAVG,OECD - Average,EMP9_9,Gender wage gap at 9th decile (top),2017,2017,18.6
+345,OAVG,OECD - Average,EMP9_9,Gender wage gap at 9th decile (top),2018,2018,18.4
+346,AUS,Australia,EMP9_5,Gender wage gap at median,2000,2000,17.2
+347,AUS,Australia,EMP9_5,Gender wage gap at median,2005,2005,15.8
+348,AUS,Australia,EMP9_5,Gender wage gap at median,2010,2010,14.0
+349,AUS,Australia,EMP9_5,Gender wage gap at median,2015,2015,13.3
+350,AUS,Australia,EMP9_5,Gender wage gap at median,2016,2016,13.7
+351,AUS,Australia,EMP9_5,Gender wage gap at median,2017,2017,13.0
+352,AUS,Australia,EMP9_5,Gender wage gap at median,2018,2018,13.5
+353,AUT,Austria,EMP9_5,Gender wage gap at median,2000,2000,23.1
+354,AUT,Austria,EMP9_5,Gender wage gap at median,2005,2005,22.0
+355,AUT,Austria,EMP9_5,Gender wage gap at median,2010,2010,19.2
+356,AUT,Austria,EMP9_5,Gender wage gap at median,2015,2015,17.0
+357,AUT,Austria,EMP9_5,Gender wage gap at median,2016,2016,15.7
+358,AUT,Austria,EMP9_5,Gender wage gap at median,2017,2017,15.4
+359,AUT,Austria,EMP9_5,Gender wage gap at median,2018,2018,14.9
+360,BEL,Belgium,EMP9_5,Gender wage gap at median,2000,2000,13.6
+361,BEL,Belgium,EMP9_5,Gender wage gap at median,2005,2005,11.5
+362,BEL,Belgium,EMP9_5,Gender wage gap at median,2010,2010,7.0
+363,BEL,Belgium,EMP9_5,Gender wage gap at median,2015,2015,4.7
+364,BEL,Belgium,EMP9_5,Gender wage gap at median,2016,2016,3.7
+365,BEL,Belgium,EMP9_5,Gender wage gap at median,2017,2017,4.2
+366,CAN,Canada,EMP9_5,Gender wage gap at median,2000,2000,23.9
+367,CAN,Canada,EMP9_5,Gender wage gap at median,2005,2005,21.3
+368,CAN,Canada,EMP9_5,Gender wage gap at median,2010,2010,20.2
+369,CAN,Canada,EMP9_5,Gender wage gap at median,2015,2015,18.7
+370,CAN,Canada,EMP9_5,Gender wage gap at median,2016,2016,18.2
+371,CAN,Canada,EMP9_5,Gender wage gap at median,2017,2017,18.8
+372,CAN,Canada,EMP9_5,Gender wage gap at median,2018,2018,18.4
+373,CAN,Canada,EMP9_5,Gender wage gap at median,2019,2019,18.7
+374,CZE,Czech Republic,EMP9_5,Gender wage gap at median,2005,2005,15.9
+375,CZE,Czech Republic,EMP9_5,Gender wage gap at median,2010,2010,15.8
+376,CZE,Czech Republic,EMP9_5,Gender wage gap at median,2015,2015,16.5
+377,CZE,Czech Republic,EMP9_5,Gender wage gap at median,2016,2016,16.0
+378,CZE,Czech Republic,EMP9_5,Gender wage gap at median,2017,2017,15.6
+379,CZE,Czech Republic,EMP9_5,Gender wage gap at median,2018,2018,15.1
+380,CZE,Czech Republic,EMP9_5,Gender wage gap at median,2019,2019,14.7
+381,DNK,Denmark,EMP9_5,Gender wage gap at median,2005,2005,10.2
+382,DNK,Denmark,EMP9_5,Gender wage gap at median,2010,2010,8.9
+383,DNK,Denmark,EMP9_5,Gender wage gap at median,2015,2015,5.8
+384,DNK,Denmark,EMP9_5,Gender wage gap at median,2016,2016,5.7
+385,DNK,Denmark,EMP9_5,Gender wage gap at median,2017,2017,5.3
+386,DNK,Denmark,EMP9_5,Gender wage gap at median,2018,2018,4.9
+387,FIN,Finland,EMP9_5,Gender wage gap at median,2000,2000,20.4
+388,FIN,Finland,EMP9_5,Gender wage gap at median,2005,2005,18.9
+389,FIN,Finland,EMP9_5,Gender wage gap at median,2010,2010,18.9
+390,FIN,Finland,EMP9_5,Gender wage gap at median,2015,2015,18.1
+391,FIN,Finland,EMP9_5,Gender wage gap at median,2016,2016,16.5
+392,FIN,Finland,EMP9_5,Gender wage gap at median,2017,2017,17.7
+393,FIN,Finland,EMP9_5,Gender wage gap at median,2018,2018,18.9
+394,FRA,France,EMP9_5,Gender wage gap at median,2010,2010,9.1
+395,DEU,Germany,EMP9_5,Gender wage gap at median,2000,2000,19.5
+396,DEU,Germany,EMP9_5,Gender wage gap at median,2005,2005,16.8
+397,DEU,Germany,EMP9_5,Gender wage gap at median,2010,2010,16.7
+398,DEU,Germany,EMP9_5,Gender wage gap at median,2015,2015,16.1
+399,DEU,Germany,EMP9_5,Gender wage gap at median,2016,2016,15.8
+400,DEU,Germany,EMP9_5,Gender wage gap at median,2017,2017,14.4
+401,DEU,Germany,EMP9_5,Gender wage gap at median,2018,2018,15.4
+402,GRC,Greece,EMP9_5,Gender wage gap at median,2010,2010,9.9
+403,GRC,Greece,EMP9_5,Gender wage gap at median,2018,2018,5.9
+404,HUN,Hungary,EMP9_5,Gender wage gap at median,2000,2000,14.1
+405,HUN,Hungary,EMP9_5,Gender wage gap at median,2005,2005,4.0
+406,HUN,Hungary,EMP9_5,Gender wage gap at median,2010,2010,6.4
+407,HUN,Hungary,EMP9_5,Gender wage gap at median,2015,2015,9.5
+408,HUN,Hungary,EMP9_5,Gender wage gap at median,2016,2016,9.4
+409,ISL,Iceland,EMP9_5,Gender wage gap at median,2010,2010,16.5
+410,IRL,Ireland,EMP9_5,Gender wage gap at median,2010,2010,14.4
+411,ITA,Italy,EMP9_5,Gender wage gap at median,2000,2000,8.5
+412,ITA,Italy,EMP9_5,Gender wage gap at median,2010,2010,5.6
+413,JPN,Japan,EMP9_5,Gender wage gap at median,2000,2000,33.9
+414,JPN,Japan,EMP9_5,Gender wage gap at median,2005,2005,32.8
+415,JPN,Japan,EMP9_5,Gender wage gap at median,2010,2010,28.7
+416,JPN,Japan,EMP9_5,Gender wage gap at median,2015,2015,25.7
+417,JPN,Japan,EMP9_5,Gender wage gap at median,2016,2016,24.6
+418,JPN,Japan,EMP9_5,Gender wage gap at median,2017,2017,24.5
+419,JPN,Japan,EMP9_5,Gender wage gap at median,2018,2018,23.5
+420,JPN,Japan,EMP9_5,Gender wage gap at median,2019,2019,23.5
+421,KOR,Korea,EMP9_5,Gender wage gap at median,2000,2000,41.7
+422,KOR,Korea,EMP9_5,Gender wage gap at median,2005,2005,39.6
+423,KOR,Korea,EMP9_5,Gender wage gap at median,2010,2010,39.6
+424,KOR,Korea,EMP9_5,Gender wage gap at median,2015,2015,37.2
+425,KOR,Korea,EMP9_5,Gender wage gap at median,2016,2016,36.7
+426,KOR,Korea,EMP9_5,Gender wage gap at median,2017,2017,34.6
+427,KOR,Korea,EMP9_5,Gender wage gap at median,2018,2018,34.1
+428,KOR,Korea,EMP9_5,Gender wage gap at median,2019,2019,32.5
+429,LUX,Luxembourg,EMP9_5,Gender wage gap at median,2010,2010,4.6
+430,MEX,Mexico,EMP9_5,Gender wage gap at median,2005,2005,16.7
+431,MEX,Mexico,EMP9_5,Gender wage gap at median,2010,2010,11.6
+432,MEX,Mexico,EMP9_5,Gender wage gap at median,2015,2015,16.7
+433,MEX,Mexico,EMP9_5,Gender wage gap at median,2016,2016,16.5
+434,MEX,Mexico,EMP9_5,Gender wage gap at median,2017,2017,11.1
+435,MEX,Mexico,EMP9_5,Gender wage gap at median,2018,2018,14.0
+436,MEX,Mexico,EMP9_5,Gender wage gap at median,2019,2019,18.8
+437,NLD,Netherlands,EMP9_5,Gender wage gap at median,2010,2010,17.9
+438,NZL,New Zealand,EMP9_5,Gender wage gap at median,2000,2000,7.2
+439,NZL,New Zealand,EMP9_5,Gender wage gap at median,2005,2005,9.6
+440,NZL,New Zealand,EMP9_5,Gender wage gap at median,2010,2010,7.0
+441,NZL,New Zealand,EMP9_5,Gender wage gap at median,2015,2015,7.9
+442,NZL,New Zealand,EMP9_5,Gender wage gap at median,2016,2016,7.8
+443,NZL,New Zealand,EMP9_5,Gender wage gap at median,2017,2017,7.2
+444,NZL,New Zealand,EMP9_5,Gender wage gap at median,2018,2018,7.9
+445,NZL,New Zealand,EMP9_5,Gender wage gap at median,2019,2019,6.5
+446,NOR,Norway,EMP9_5,Gender wage gap at median,2000,2000,9.2
+447,NOR,Norway,EMP9_5,Gender wage gap at median,2005,2005,8.6
+448,NOR,Norway,EMP9_5,Gender wage gap at median,2010,2010,7.2
+449,NOR,Norway,EMP9_5,Gender wage gap at median,2015,2015,7.0
+450,NOR,Norway,EMP9_5,Gender wage gap at median,2016,2016,6.3
+451,NOR,Norway,EMP9_5,Gender wage gap at median,2017,2017,5.5
+452,NOR,Norway,EMP9_5,Gender wage gap at median,2018,2018,5.1
+453,NOR,Norway,EMP9_5,Gender wage gap at median,2019,2019,4.4
+454,POL,Poland,EMP9_5,Gender wage gap at median,2010,2010,7.2
+455,POL,Poland,EMP9_5,Gender wage gap at median,2016,2016,9.4
+456,POL,Poland,EMP9_5,Gender wage gap at median,2018,2018,11.5
+457,PRT,Portugal,EMP9_5,Gender wage gap at median,2010,2010,16.0
+458,PRT,Portugal,EMP9_5,Gender wage gap at median,2018,2018,11.7
+459,SVK,Slovak Republic,EMP9_5,Gender wage gap at median,2005,2005,20.1
+460,SVK,Slovak Republic,EMP9_5,Gender wage gap at median,2010,2010,14.9
+461,SVK,Slovak Republic,EMP9_5,Gender wage gap at median,2015,2015,13.4
+462,SVK,Slovak Republic,EMP9_5,Gender wage gap at median,2016,2016,13.9
+463,SVK,Slovak Republic,EMP9_5,Gender wage gap at median,2017,2017,15.0
+464,SVK,Slovak Republic,EMP9_5,Gender wage gap at median,2018,2018,15.7
+465,SVK,Slovak Republic,EMP9_5,Gender wage gap at median,2019,2019,13.9
+466,ESP,Spain,EMP9_5,Gender wage gap at median,2010,2010,13.5
+467,SWE,Sweden,EMP9_5,Gender wage gap at median,2000,2000,12.4
+468,SWE,Sweden,EMP9_5,Gender wage gap at median,2005,2005,11.3
+469,SWE,Sweden,EMP9_5,Gender wage gap at median,2010,2010,9.4
+470,SWE,Sweden,EMP9_5,Gender wage gap at median,2015,2015,8.3
+471,SWE,Sweden,EMP9_5,Gender wage gap at median,2016,2016,8.2
+472,SWE,Sweden,EMP9_5,Gender wage gap at median,2017,2017,7.4
+473,SWE,Sweden,EMP9_5,Gender wage gap at median,2018,2018,7.1
+474,SWE,Sweden,EMP9_5,Gender wage gap at median,2019,2019,7.6
+475,CHE,Switzerland,EMP9_5,Gender wage gap at median,2000,2000,23.8
+476,CHE,Switzerland,EMP9_5,Gender wage gap at median,2010,2010,20.1
+477,CHE,Switzerland,EMP9_5,Gender wage gap at median,2016,2016,14.8
+478,CHE,Switzerland,EMP9_5,Gender wage gap at median,2018,2018,15.1
+479,TUR,Türkiye,EMP9_5,Gender wage gap at median,2010,2010,3.1
+480,GBR,United Kingdom,EMP9_5,Gender wage gap at median,2000,2000,26.3
+481,GBR,United Kingdom,EMP9_5,Gender wage gap at median,2005,2005,22.1
+482,GBR,United Kingdom,EMP9_5,Gender wage gap at median,2010,2010,19.2
+483,GBR,United Kingdom,EMP9_5,Gender wage gap at median,2015,2015,17.1
+484,GBR,United Kingdom,EMP9_5,Gender wage gap at median,2016,2016,16.8
+485,GBR,United Kingdom,EMP9_5,Gender wage gap at median,2017,2017,16.5
+486,GBR,United Kingdom,EMP9_5,Gender wage gap at median,2018,2018,16.3
+487,GBR,United Kingdom,EMP9_5,Gender wage gap at median,2019,2019,16.1
+488,USA,United States,EMP9_5,Gender wage gap at median,2000,2000,23.1
+489,USA,United States,EMP9_5,Gender wage gap at median,2005,2005,19.0
+490,USA,United States,EMP9_5,Gender wage gap at median,2010,2010,18.8
+491,USA,United States,EMP9_5,Gender wage gap at median,2015,2015,18.9
+492,USA,United States,EMP9_5,Gender wage gap at median,2016,2016,18.1
+493,USA,United States,EMP9_5,Gender wage gap at median,2017,2017,18.2
+494,USA,United States,EMP9_5,Gender wage gap at median,2018,2018,18.9
+495,USA,United States,EMP9_5,Gender wage gap at median,2019,2019,18.5
+496,CHL,Chile,EMP9_5,Gender wage gap at median,2000,2000,6.1
+497,CHL,Chile,EMP9_5,Gender wage gap at median,2015,2015,14.3
+498,CHL,Chile,EMP9_5,Gender wage gap at median,2017,2017,12.5
+499,COL,Colombia,EMP9_5,Gender wage gap at median,2010,2010,12.7
+500,COL,Colombia,EMP9_5,Gender wage gap at median,2015,2015,14.3
+501,COL,Colombia,EMP9_5,Gender wage gap at median,2016,2016,12.8
+502,COL,Colombia,EMP9_5,Gender wage gap at median,2017,2017,11.3
+503,COL,Colombia,EMP9_5,Gender wage gap at median,2018,2018,10.6
+504,COL,Colombia,EMP9_5,Gender wage gap at median,2019,2019,9.4
+505,CRI,Costa Rica,EMP9_5,Gender wage gap at median,2010,2010,9.3
+506,CRI,Costa Rica,EMP9_5,Gender wage gap at median,2015,2015,9.1
+507,CRI,Costa Rica,EMP9_5,Gender wage gap at median,2016,2016,6.3
+508,CRI,Costa Rica,EMP9_5,Gender wage gap at median,2017,2017,6.6
+509,CRI,Costa Rica,EMP9_5,Gender wage gap at median,2018,2018,8.5
+510,CRI,Costa Rica,EMP9_5,Gender wage gap at median,2019,2019,6.5
+511,EST,Estonia,EMP9_5,Gender wage gap at median,2010,2010,27.8
+512,ISR,Israel,EMP9_5,Gender wage gap at median,2005,2005,21.9
+513,ISR,Israel,EMP9_5,Gender wage gap at median,2010,2010,20.4
+514,ISR,Israel,EMP9_5,Gender wage gap at median,2015,2015,20.4
+515,ISR,Israel,EMP9_5,Gender wage gap at median,2016,2016,21.6
+516,ISR,Israel,EMP9_5,Gender wage gap at median,2017,2017,21.8
+517,ISR,Israel,EMP9_5,Gender wage gap at median,2018,2018,22.7
+518,LVA,Latvia,EMP9_5,Gender wage gap at median,2010,2010,19.1
+519,LTU,Lithuania,EMP9_5,Gender wage gap at median,2010,2010,10.6
+520,SVN,Slovenia,EMP9_5,Gender wage gap at median,2010,2010,1.0
+521,OAVG,OECD - Average,EMP9_5,Gender wage gap at median,2000,2000,18.1
+522,OAVG,OECD - Average,EMP9_5,Gender wage gap at median,2005,2005,16.0
+523,OAVG,OECD - Average,EMP9_5,Gender wage gap at median,2010,2010,14.1
+524,OAVG,OECD - Average,EMP9_5,Gender wage gap at median,2015,2015,13.9
+525,OAVG,OECD - Average,EMP9_5,Gender wage gap at median,2016,2016,13.5
+526,OAVG,OECD - Average,EMP9_5,Gender wage gap at median,2017,2017,13.0
+527,OAVG,OECD - Average,EMP9_5,Gender wage gap at median,2018,2018,13.0
+528,HUN,Hungary,EMP9_9,Gender wage gap at 9th decile (top),2017,2017,23.2
+529,HUN,Hungary,EMP9_9,Gender wage gap at 9th decile (top),2018,2018,22.3
+530,HUN,Hungary,EMP9_5,Gender wage gap at median,2017,2017,5.3
+531,HUN,Hungary,EMP9_5,Gender wage gap at median,2018,2018,5.1
+532,FRA,France,EMP9_1,Gender wage gap at 1st decile (bottom),2018,2018,8.2
+533,FRA,France,EMP9_9,Gender wage gap at 9th decile (top),2018,2018,21.2
+534,FRA,France,EMP9_5,Gender wage gap at median,2018,2018,11.8
+535,ISL,Iceland,EMP9_1,Gender wage gap at 1st decile (bottom),2018,2018,13.0
+536,ISL,Iceland,EMP9_9,Gender wage gap at 9th decile (top),2018,2018,17.6
+537,ISL,Iceland,EMP9_5,Gender wage gap at median,2018,2018,12.9
+538,IRL,Ireland,EMP9_1,Gender wage gap at 1st decile (bottom),2018,2018,10.1
+539,IRL,Ireland,EMP9_9,Gender wage gap at 9th decile (top),2018,2018,21.0
+540,IRL,Ireland,EMP9_5,Gender wage gap at median,2018,2018,8.3
+541,ITA,Italy,EMP9_1,Gender wage gap at 1st decile (bottom),2018,2018,3.9
+542,ITA,Italy,EMP9_9,Gender wage gap at 9th decile (top),2018,2018,22.3
+543,ITA,Italy,EMP9_5,Gender wage gap at median,2018,2018,5.7
+544,NLD,Netherlands,EMP9_1,Gender wage gap at 1st decile (bottom),2018,2018,9.7
+545,NLD,Netherlands,EMP9_9,Gender wage gap at 9th decile (top),2018,2018,13.7
+546,NLD,Netherlands,EMP9_5,Gender wage gap at median,2018,2018,12.7
+547,EST,Estonia,EMP9_1,Gender wage gap at 1st decile (bottom),2018,2018,14.3
+548,EST,Estonia,EMP9_9,Gender wage gap at 9th decile (top),2018,2018,27.8
+549,EST,Estonia,EMP9_5,Gender wage gap at median,2018,2018,22.7
+550,AUS,Australia,EMP9_1,Gender wage gap at 1st decile (bottom),2019,2019,4.7
+551,AUS,Australia,EMP9_1,Gender wage gap at 1st decile (bottom),2020,2020,6.3
+552,AUS,Australia,EMP9_9,Gender wage gap at 9th decile (top),2019,2019,23.3
+553,AUS,Australia,EMP9_9,Gender wage gap at 9th decile (top),2020,2020,18.3
+554,AUS,Australia,EMP9_5,Gender wage gap at median,2019,2019,15.3
+555,AUS,Australia,EMP9_5,Gender wage gap at median,2020,2020,10.5
+556,AUT,Austria,EMP9_1,Gender wage gap at 1st decile (bottom),2019,2019,17.6
+557,AUT,Austria,EMP9_9,Gender wage gap at 9th decile (top),2019,2019,19.5
+558,AUT,Austria,EMP9_5,Gender wage gap at median,2019,2019,14.0
+559,BEL,Belgium,EMP9_1,Gender wage gap at 1st decile (bottom),2018,2018,5.5
+560,BEL,Belgium,EMP9_9,Gender wage gap at 9th decile (top),2018,2018,6.5
+561,BEL,Belgium,EMP9_5,Gender wage gap at median,2018,2018,3.4
+562,CAN,Canada,EMP9_1,Gender wage gap at 1st decile (bottom),2020,2020,10.0
+563,CAN,Canada,EMP9_9,Gender wage gap at 9th decile (top),2020,2020,16.1
+564,CAN,Canada,EMP9_5,Gender wage gap at median,2020,2020,17.6
+565,CZE,Czech Republic,EMP9_1,Gender wage gap at 1st decile (bottom),2020,2020,4.3
+566,CZE,Czech Republic,EMP9_9,Gender wage gap at 9th decile (top),2020,2020,19.5
+567,CZE,Czech Republic,EMP9_5,Gender wage gap at median,2020,2020,12.4
+568,DNK,Denmark,EMP9_1,Gender wage gap at 1st decile (bottom),2019,2019,7.9
+569,DNK,Denmark,EMP9_9,Gender wage gap at 9th decile (top),2019,2019,12.0
+570,DNK,Denmark,EMP9_5,Gender wage gap at median,2019,2019,5.1
+571,FIN,Finland,EMP9_1,Gender wage gap at 1st decile (bottom),2019,2019,10.8
+572,FIN,Finland,EMP9_9,Gender wage gap at 9th decile (top),2019,2019,20.1
+573,FIN,Finland,EMP9_5,Gender wage gap at median,2019,2019,17.2
+574,DEU,Germany,EMP9_1,Gender wage gap at 1st decile (bottom),2019,2019,13.2
+575,DEU,Germany,EMP9_9,Gender wage gap at 9th decile (top),2019,2019,20.0
+576,DEU,Germany,EMP9_5,Gender wage gap at median,2019,2019,14.0
+577,HUN,Hungary,EMP9_1,Gender wage gap at 1st decile (bottom),2019,2019,7.6
+578,HUN,Hungary,EMP9_9,Gender wage gap at 9th decile (top),2019,2019,24.2
+579,HUN,Hungary,EMP9_5,Gender wage gap at median,2019,2019,12.8
+580,JPN,Japan,EMP9_1,Gender wage gap at 1st decile (bottom),2020,2020,15.8
+581,JPN,Japan,EMP9_9,Gender wage gap at 9th decile (top),2020,2020,32.0
+582,JPN,Japan,EMP9_5,Gender wage gap at median,2020,2020,22.5
+583,KOR,Korea,EMP9_1,Gender wage gap at 1st decile (bottom),2020,2020,7.2
+584,KOR,Korea,EMP9_9,Gender wage gap at 9th decile (top),2020,2020,34.6
+585,KOR,Korea,EMP9_5,Gender wage gap at median,2020,2020,31.5
+586,MEX,Mexico,EMP9_1,Gender wage gap at 1st decile (bottom),2020,2020,11.1
+587,MEX,Mexico,EMP9_9,Gender wage gap at 9th decile (top),2020,2020,7.0
+588,MEX,Mexico,EMP9_5,Gender wage gap at median,2020,2020,9.6
+589,NZL,New Zealand,EMP9_1,Gender wage gap at 1st decile (bottom),2020,2020,3.5
+590,NZL,New Zealand,EMP9_9,Gender wage gap at 9th decile (top),2020,2020,14.0
+591,NZL,New Zealand,EMP9_5,Gender wage gap at median,2020,2020,4.6
+592,NOR,Norway,EMP9_1,Gender wage gap at 1st decile (bottom),2020,2020,3.8
+593,NOR,Norway,EMP9_9,Gender wage gap at 9th decile (top),2020,2020,18.1
+594,NOR,Norway,EMP9_5,Gender wage gap at median,2020,2020,4.8
+595,SVK,Slovak Republic,EMP9_1,Gender wage gap at 1st decile (bottom),2020,2020,2.9
+596,SVK,Slovak Republic,EMP9_9,Gender wage gap at 9th decile (top),2020,2020,20.3
+597,SVK,Slovak Republic,EMP9_5,Gender wage gap at median,2020,2020,11.0
+598,ESP,Spain,EMP9_1,Gender wage gap at 1st decile (bottom),2018,2018,11.3
+599,ESP,Spain,EMP9_9,Gender wage gap at 9th decile (top),2018,2018,9.5
+600,ESP,Spain,EMP9_5,Gender wage gap at median,2018,2018,8.6
+601,SWE,Sweden,EMP9_1,Gender wage gap at 1st decile (bottom),2020,2020,4.5
+602,SWE,Sweden,EMP9_9,Gender wage gap at 9th decile (top),2020,2020,14.0
+603,SWE,Sweden,EMP9_5,Gender wage gap at median,2020,2020,7.4
+604,TUR,Türkiye,EMP9_9,Gender wage gap at 9th decile (top),2018,2018,5.2
+605,TUR,Türkiye,EMP9_5,Gender wage gap at median,2018,2018,10.0
+606,GBR,United Kingdom,EMP9_1,Gender wage gap at 1st decile (bottom),2020,2020,7.9
+607,GBR,United Kingdom,EMP9_9,Gender wage gap at 9th decile (top),2020,2020,20.0
+608,GBR,United Kingdom,EMP9_5,Gender wage gap at median,2020,2020,12.0
+609,USA,United States,EMP9_1,Gender wage gap at 1st decile (bottom),2020,2020,11.0
+610,USA,United States,EMP9_9,Gender wage gap at 9th decile (top),2020,2020,22.8
+611,USA,United States,EMP9_5,Gender wage gap at median,2020,2020,17.7
+612,CHL,Chile,EMP9_1,Gender wage gap at 1st decile (bottom),2020,2020,20.0
+613,CHL,Chile,EMP9_9,Gender wage gap at 9th decile (top),2020,2020,13.3
+614,CHL,Chile,EMP9_5,Gender wage gap at median,2020,2020,8.6
+615,COL,Colombia,EMP9_1,Gender wage gap at 1st decile (bottom),2020,2020,22.9
+616,COL,Colombia,EMP9_5,Gender wage gap at median,2020,2020,3.0
+617,CRI,Costa Rica,EMP9_1,Gender wage gap at 1st decile (bottom),2020,2020,23.2
+618,CRI,Costa Rica,EMP9_5,Gender wage gap at median,2020,2020,3.0
+619,LVA,Latvia,EMP9_1,Gender wage gap at 1st decile (bottom),2018,2018,12.2
+620,LVA,Latvia,EMP9_9,Gender wage gap at 9th decile (top),2018,2018,27.1
+621,LVA,Latvia,EMP9_5,Gender wage gap at median,2018,2018,20.3
+622,LTU,Lithuania,EMP9_1,Gender wage gap at 1st decile (bottom),2018,2018,6.3
+623,LTU,Lithuania,EMP9_9,Gender wage gap at 9th decile (top),2018,2018,22.5
+624,LTU,Lithuania,EMP9_5,Gender wage gap at median,2018,2018,11.7
+625,SVN,Slovenia,EMP9_1,Gender wage gap at 1st decile (bottom),2018,2018,4.9
+626,SVN,Slovenia,EMP9_9,Gender wage gap at 9th decile (top),2018,2018,12.7
+627,SVN,Slovenia,EMP9_5,Gender wage gap at median,2018,2018,8.2
+628,OAVG,OECD - Average,EMP9_1,Gender wage gap at 1st decile (bottom),2019,2019,9.7
+629,OAVG,OECD - Average,EMP9_9,Gender wage gap at 9th decile (top),2019,2019,18.0
+630,OAVG,OECD - Average,EMP9_5,Gender wage gap at median,2019,2019,13.0
+631,AUT,Austria,EMP9_1,Gender wage gap at 1st decile (bottom),2020,2020,17.5
+632,AUT,Austria,EMP9_9,Gender wage gap at 9th decile (top),2020,2020,18.1
+633,AUT,Austria,EMP9_5,Gender wage gap at median,2020,2020,12.4
+634,BEL,Belgium,EMP9_1,Gender wage gap at 1st decile (bottom),2019,2019,5.6
+635,BEL,Belgium,EMP9_9,Gender wage gap at 9th decile (top),2019,2019,6.3
+636,BEL,Belgium,EMP9_5,Gender wage gap at median,2019,2019,3.8
+637,GRC,Greece,EMP9_1,Gender wage gap at 1st decile (bottom),2019,2019,1.2
+638,GRC,Greece,EMP9_9,Gender wage gap at 9th decile (top),2019,2019,25.1
+639,GRC,Greece,EMP9_9,Gender wage gap at 9th decile (top),2020,2020,26.0
+640,GRC,Greece,EMP9_5,Gender wage gap at median,2019,2019,5.9
+641,GRC,Greece,EMP9_5,Gender wage gap at median,2020,2020,8.0
+642,HUN,Hungary,EMP9_1,Gender wage gap at 1st decile (bottom),2020,2020,9.3
+643,HUN,Hungary,EMP9_9,Gender wage gap at 9th decile (top),2020,2020,21.8
+644,HUN,Hungary,EMP9_5,Gender wage gap at median,2020,2020,12.4
+645,IRL,Ireland,EMP9_5,Gender wage gap at median,2019,2019,7.9
+646,ITA,Italy,EMP9_1,Gender wage gap at 1st decile (bottom),2019,2019,3.4
+647,ITA,Italy,EMP9_9,Gender wage gap at 9th decile (top),2019,2019,21.6
+648,ITA,Italy,EMP9_5,Gender wage gap at median,2019,2019,5.6
+649,POL,Poland,EMP9_9,Gender wage gap at 9th decile (top),2020,2020,18.3
+650,POL,Poland,EMP9_5,Gender wage gap at median,2020,2020,8.7
+651,PRT,Portugal,EMP9_1,Gender wage gap at 1st decile (bottom),2020,2020,2.0
+652,PRT,Portugal,EMP9_9,Gender wage gap at 9th decile (top),2019,2019,14.6
+653,PRT,Portugal,EMP9_9,Gender wage gap at 9th decile (top),2020,2020,10.8
+654,PRT,Portugal,EMP9_5,Gender wage gap at median,2019,2019,11.4
+655,PRT,Portugal,EMP9_5,Gender wage gap at median,2020,2020,11.7
+656,CHE,Switzerland,EMP9_1,Gender wage gap at 1st decile (bottom),2020,2020,13.6
+657,CHE,Switzerland,EMP9_9,Gender wage gap at 9th decile (top),2020,2020,18.6
+658,CHE,Switzerland,EMP9_5,Gender wage gap at median,2020,2020,13.8
+659,OAVG,OECD - Average,EMP9_1,Gender wage gap at 1st decile (bottom),2020,2020,9.1
+660,OAVG,OECD - Average,EMP9_9,Gender wage gap at 9th decile (top),2020,2020,17.1
+661,OAVG,OECD - Average,EMP9_5,Gender wage gap at median,2020,2020,11.6
+662,CAN,Canada,EMP9_1,Gender wage gap at 1st decile (bottom),2021,2021,9.9
+663,CAN,Canada,EMP9_9,Gender wage gap at 9th decile (top),2021,2021,16.7
+664,CAN,Canada,EMP9_5,Gender wage gap at median,2021,2021,16.7
+665,CZE,Czech Republic,EMP9_1,Gender wage gap at 1st decile (bottom),2021,2021,2.9
+666,CZE,Czech Republic,EMP9_9,Gender wage gap at 9th decile (top),2021,2021,17.7
+667,CZE,Czech Republic,EMP9_5,Gender wage gap at median,2021,2021,11.5
+668,DNK,Denmark,EMP9_1,Gender wage gap at 1st decile (bottom),2020,2020,8.0
+669,DNK,Denmark,EMP9_9,Gender wage gap at 9th decile (top),2020,2020,11.4
+670,DNK,Denmark,EMP9_5,Gender wage gap at median,2020,2020,5.0
+671,FIN,Finland,EMP9_1,Gender wage gap at 1st decile (bottom),2020,2020,8.9
+672,FIN,Finland,EMP9_9,Gender wage gap at 9th decile (top),2020,2020,21.5
+673,FIN,Finland,EMP9_5,Gender wage gap at median,2020,2020,16.0
+674,DEU,Germany,EMP9_1,Gender wage gap at 1st decile (bottom),2020,2020,15.0
+675,DEU,Germany,EMP9_9,Gender wage gap at 9th decile (top),2020,2020,22.1
+676,DEU,Germany,EMP9_5,Gender wage gap at median,2020,2020,14.2
+677,JPN,Japan,EMP9_1,Gender wage gap at 1st decile (bottom),2021,2021,15.7
+678,JPN,Japan,EMP9_9,Gender wage gap at 9th decile (top),2021,2021,30.6
+679,JPN,Japan,EMP9_5,Gender wage gap at median,2021,2021,22.1
+680,KOR,Korea,EMP9_1,Gender wage gap at 1st decile (bottom),2021,2021,8.5
+681,KOR,Korea,EMP9_9,Gender wage gap at 9th decile (top),2021,2021,34.2
+682,KOR,Korea,EMP9_5,Gender wage gap at median,2021,2021,31.1
+683,MEX,Mexico,EMP9_1,Gender wage gap at 1st decile (bottom),2021,2021,7.0
+684,MEX,Mexico,EMP9_9,Gender wage gap at 9th decile (top),2021,2021,6.9
+685,MEX,Mexico,EMP9_5,Gender wage gap at median,2021,2021,12.5
+686,NLD,Netherlands,EMP9_1,Gender wage gap at 1st decile (bottom),2019,2019,5.5
+687,NLD,Netherlands,EMP9_1,Gender wage gap at 1st decile (bottom),2020,2020,6.6
+688,NLD,Netherlands,EMP9_9,Gender wage gap at 9th decile (top),2019,2019,7.0
+689,NLD,Netherlands,EMP9_9,Gender wage gap at 9th decile (top),2020,2020,10.6
+690,NLD,Netherlands,EMP9_5,Gender wage gap at median,2019,2019,13.4
+691,NLD,Netherlands,EMP9_5,Gender wage gap at median,2020,2020,13.3
+692,NZL,New Zealand,EMP9_9,Gender wage gap at 9th decile (top),2021,2021,16.7
+693,NZL,New Zealand,EMP9_5,Gender wage gap at median,2021,2021,6.7
+694,NOR,Norway,EMP9_1,Gender wage gap at 1st decile (bottom),2021,2021,3.8
+695,NOR,Norway,EMP9_9,Gender wage gap at 9th decile (top),2021,2021,17.4
+696,NOR,Norway,EMP9_5,Gender wage gap at median,2021,2021,4.6
+697,SVK,Slovak Republic,EMP9_1,Gender wage gap at 1st decile (bottom),2021,2021,3.4
+698,SVK,Slovak Republic,EMP9_9,Gender wage gap at 9th decile (top),2021,2021,19.9
+699,SVK,Slovak Republic,EMP9_5,Gender wage gap at median,2021,2021,11.7
+700,ESP,Spain,EMP9_1,Gender wage gap at 1st decile (bottom),2020,2020,21.2
+701,ESP,Spain,EMP9_9,Gender wage gap at 9th decile (top),2020,2020,11.2
+702,ESP,Spain,EMP9_5,Gender wage gap at median,2020,2020,8.1
+703,GBR,United Kingdom,EMP9_1,Gender wage gap at 1st decile (bottom),2021,2021,8.4
+704,GBR,United Kingdom,EMP9_9,Gender wage gap at 9th decile (top),2021,2021,19.4
+705,GBR,United Kingdom,EMP9_5,Gender wage gap at median,2021,2021,14.2
+706,USA,United States,EMP9_1,Gender wage gap at 1st decile (bottom),2021,2021,9.4
+707,USA,United States,EMP9_9,Gender wage gap at 9th decile (top),2021,2021,22.4
+708,USA,United States,EMP9_5,Gender wage gap at median,2021,2021,16.9
+709,EST,Estonia,EMP9_1,Gender wage gap at 1st decile (bottom),2020,2020,13.6
+710,EST,Estonia,EMP9_9,Gender wage gap at 9th decile (top),2020,2020,28.3
+711,EST,Estonia,EMP9_5,Gender wage gap at median,2020,2020,19.6
+712,ISR,Israel,EMP9_1,Gender wage gap at 1st decile (bottom),2019,2019,16.7
+713,ISR,Israel,EMP9_9,Gender wage gap at 9th decile (top),2019,2019,28.0
+714,ISR,Israel,EMP9_5,Gender wage gap at median,2019,2019,24.3
+715,LVA,Latvia,EMP9_1,Gender wage gap at 1st decile (bottom),2019,2019,10.2
+716,LVA,Latvia,EMP9_9,Gender wage gap at 9th decile (top),2019,2019,22.2
+717,LVA,Latvia,EMP9_5,Gender wage gap at median,2019,2019,19.8
+718,LTU,Lithuania,EMP9_1,Gender wage gap at 1st decile (bottom),2020,2020,5.5
+719,LTU,Lithuania,EMP9_9,Gender wage gap at 9th decile (top),2020,2020,22.1
+720,LTU,Lithuania,EMP9_5,Gender wage gap at median,2020,2020,9.3
+721,AUS,Australia,EMP9_1,Gender wage gap at 1st decile (bottom),2021,2021,7.0
+722,AUS,Australia,EMP9_1,Gender wage gap at 1st decile (bottom),2022,2022,5.7
+723,AUS,Australia,EMP9_9,Gender wage gap at 9th decile (top),2021,2021,23.3
+724,AUS,Australia,EMP9_9,Gender wage gap at 9th decile (top),2022,2022,23.2
+725,AUS,Australia,EMP9_5,Gender wage gap at median,2021,2021,10.5
+726,AUS,Australia,EMP9_5,Gender wage gap at median,2022,2022,9.9
+727,AUT,Austria,EMP9_1,Gender wage gap at 1st decile (bottom),2021,2021,17.3
+728,AUT,Austria,EMP9_9,Gender wage gap at 9th decile (top),2021,2021,18.0
+729,AUT,Austria,EMP9_5,Gender wage gap at median,2021,2021,12.2
+730,BEL,Belgium,EMP9_1,Gender wage gap at 1st decile (bottom),2020,2020,5.7
+731,BEL,Belgium,EMP9_9,Gender wage gap at 9th decile (top),2020,2020,6.1
+732,BEL,Belgium,EMP9_5,Gender wage gap at median,2020,2020,1.2
+733,FRA,France,EMP9_1,Gender wage gap at 1st decile (bottom),2019,2019,10.5
+734,FRA,France,EMP9_1,Gender wage gap at 1st decile (bottom),2020,2020,12.2
+735,FRA,France,EMP9_1,Gender wage gap at 1st decile (bottom),2021,2021,12.2
+736,FRA,France,EMP9_9,Gender wage gap at 9th decile (top),2019,2019,18.5
+737,FRA,France,EMP9_9,Gender wage gap at 9th decile (top),2020,2020,20.8
+738,FRA,France,EMP9_9,Gender wage gap at 9th decile (top),2021,2021,24.0
+739,FRA,France,EMP9_5,Gender wage gap at median,2019,2019,12.1
+740,FRA,France,EMP9_5,Gender wage gap at median,2020,2020,11.8
+741,FRA,France,EMP9_5,Gender wage gap at median,2021,2021,11.6
+742,ITA,Italy,EMP9_1,Gender wage gap at 1st decile (bottom),2020,2020,2.8
+743,ITA,Italy,EMP9_9,Gender wage gap at 9th decile (top),2020,2020,20.0
+744,ITA,Italy,EMP9_5,Gender wage gap at median,2020,2020,4.8
+745,NLD,Netherlands,EMP9_1,Gender wage gap at 1st decile (bottom),2021,2021,7.0
+746,NLD,Netherlands,EMP9_9,Gender wage gap at 9th decile (top),2021,2021,9.2
+747,NLD,Netherlands,EMP9_5,Gender wage gap at median,2021,2021,13.2
+748,ESP,Spain,EMP9_1,Gender wage gap at 1st decile (bottom),2021,2021,12.3
+749,ESP,Spain,EMP9_9,Gender wage gap at 9th decile (top),2021,2021,9.2
+750,ESP,Spain,EMP9_5,Gender wage gap at median,2021,2021,8.1
+751,SWE,Sweden,EMP9_1,Gender wage gap at 1st decile (bottom),2021,2021,4.4
+752,SWE,Sweden,EMP9_9,Gender wage gap at 9th decile (top),2021,2021,14.6
+753,SWE,Sweden,EMP9_5,Gender wage gap at median,2021,2021,7.3
+754,COL,Colombia,EMP9_1,Gender wage gap at 1st decile (bottom),2021,2021,30.6
+755,COL,Colombia,EMP9_5,Gender wage gap at median,2021,2021,3.3
+756,CRI,Costa Rica,EMP9_1,Gender wage gap at 1st decile (bottom),2021,2021,27.5
+757,CRI,Costa Rica,EMP9_5,Gender wage gap at median,2021,2021,5.2
+758,EST,Estonia,EMP9_1,Gender wage gap at 1st decile (bottom),2019,2019,14.8
+759,EST,Estonia,EMP9_1,Gender wage gap at 1st decile (bottom),2021,2021,6.7
+760,EST,Estonia,EMP9_9,Gender wage gap at 9th decile (top),2019,2019,25.6
+761,EST,Estonia,EMP9_9,Gender wage gap at 9th decile (top),2021,2021,28.1
+762,EST,Estonia,EMP9_5,Gender wage gap at median,2019,2019,23.2
+763,EST,Estonia,EMP9_5,Gender wage gap at median,2021,2021,20.4
+764,LVA,Latvia,EMP9_1,Gender wage gap at 1st decile (bottom),2020,2020,17.2
+765,LVA,Latvia,EMP9_1,Gender wage gap at 1st decile (bottom),2021,2021,13.0
+766,LVA,Latvia,EMP9_9,Gender wage gap at 9th decile (top),2020,2020,25.1
+767,LVA,Latvia,EMP9_9,Gender wage gap at 9th decile (top),2021,2021,29.6
+768,LVA,Latvia,EMP9_5,Gender wage gap at median,2020,2020,22.7
+769,LVA,Latvia,EMP9_5,Gender wage gap at median,2021,2021,24.0
+770,LTU,Lithuania,EMP9_1,Gender wage gap at 1st decile (bottom),2019,2019,8.1
+771,LTU,Lithuania,EMP9_1,Gender wage gap at 1st decile (bottom),2021,2021,12.2
+772,LTU,Lithuania,EMP9_9,Gender wage gap at 9th decile (top),2019,2019,26.4
+773,LTU,Lithuania,EMP9_9,Gender wage gap at 9th decile (top),2021,2021,16.5
+774,LTU,Lithuania,EMP9_5,Gender wage gap at median,2019,2019,14.1
+775,LTU,Lithuania,EMP9_5,Gender wage gap at median,2021,2021,9.0
+776,OAVG,OECD - Average,EMP9_1,Gender wage gap at 1st decile (bottom),2021,2021,10.0
+777,OAVG,OECD - Average,EMP9_9,Gender wage gap at 9th decile (top),2021,2021,16.5
+778,OAVG,OECD - Average,EMP9_5,Gender wage gap at median,2021,2021,11.9
+779,CAN,Canada,EMP9_1,Gender wage gap at 1st decile (bottom),2022,2022,11.3
+780,CAN,Canada,EMP9_9,Gender wage gap at 9th decile (top),2022,2022,18.3
+781,CAN,Canada,EMP9_5,Gender wage gap at median,2022,2022,17.1
+782,CZE,Czech Republic,EMP9_1,Gender wage gap at 1st decile (bottom),2022,2022,3.7
+783,CZE,Czech Republic,EMP9_9,Gender wage gap at 9th decile (top),2022,2022,21.4
+784,CZE,Czech Republic,EMP9_5,Gender wage gap at median,2022,2022,13.6
+785,DNK,Denmark,EMP9_1,Gender wage gap at 1st decile (bottom),2021,2021,8.1
+786,DNK,Denmark,EMP9_9,Gender wage gap at 9th decile (top),2021,2021,11.0
+787,DNK,Denmark,EMP9_5,Gender wage gap at median,2021,2021,5.6
+788,FIN,Finland,EMP9_1,Gender wage gap at 1st decile (bottom),2021,2021,9.2
+789,FIN,Finland,EMP9_9,Gender wage gap at 9th decile (top),2021,2021,21.7
+790,FIN,Finland,EMP9_5,Gender wage gap at median,2021,2021,15.3
+791,DEU,Germany,EMP9_5,Gender wage gap at median,2021,2021,13.7
+792,GRC,Greece,EMP9_5,Gender wage gap at median,2021,2021,6.9
+793,HUN,Hungary,EMP9_1,Gender wage gap at 1st decile (bottom),2021,2021,11.6
+794,HUN,Hungary,EMP9_9,Gender wage gap at 9th decile (top),2021,2021,22.0
+795,HUN,Hungary,EMP9_5,Gender wage gap at median,2021,2021,13.1
+796,ISL,Iceland,EMP9_5,Gender wage gap at median,2019,2019,13.3
+797,ISL,Iceland,EMP9_5,Gender wage gap at median,2020,2020,11.4
+798,ISL,Iceland,EMP9_5,Gender wage gap at median,2021,2021,9.7
+799,IRL,Ireland,EMP9_5,Gender wage gap at median,2020,2020,7.3
+800,IRL,Ireland,EMP9_5,Gender wage gap at median,2021,2021,7.3
+801,ITA,Italy,EMP9_5,Gender wage gap at median,2021,2021,5.7
+802,KOR,Korea,EMP9_1,Gender wage gap at 1st decile (bottom),2022,2022,6.9
+803,KOR,Korea,EMP9_9,Gender wage gap at 9th decile (top),2022,2022,33.2
+804,KOR,Korea,EMP9_5,Gender wage gap at median,2022,2022,31.2
+805,MEX,Mexico,EMP9_1,Gender wage gap at 1st decile (bottom),2022,2022,10.0
+806,MEX,Mexico,EMP9_9,Gender wage gap at 9th decile (top),2022,2022,12.2
+807,MEX,Mexico,EMP9_5,Gender wage gap at median,2022,2022,16.7
+808,NZL,New Zealand,EMP9_1,Gender wage gap at 1st decile (bottom),2022,2022,2.7
+809,NZL,New Zealand,EMP9_9,Gender wage gap at 9th decile (top),2022,2022,16.8
+810,NZL,New Zealand,EMP9_5,Gender wage gap at median,2022,2022,9.2
+811,PRT,Portugal,EMP9_5,Gender wage gap at median,2021,2021,12.2
+812,GBR,United Kingdom,EMP9_1,Gender wage gap at 1st decile (bottom),2022,2022,8.4
+813,GBR,United Kingdom,EMP9_9,Gender wage gap at 9th decile (top),2022,2022,19.1
+814,GBR,United Kingdom,EMP9_5,Gender wage gap at median,2022,2022,14.5
+815,USA,United States,EMP9_1,Gender wage gap at 1st decile (bottom),2022,2022,12.8
+816,USA,United States,EMP9_9,Gender wage gap at 9th decile (top),2022,2022,23.2
+817,USA,United States,EMP9_5,Gender wage gap at median,2022,2022,17.0
+818,CHL,Chile,EMP9_1,Gender wage gap at 1st decile (bottom),2021,2021,23.9
+819,CHL,Chile,EMP9_9,Gender wage gap at 9th decile (top),2021,2021,10.2
+820,CHL,Chile,EMP9_5,Gender wage gap at median,2021,2021,10.9
+821,COL,Colombia,EMP9_1,Gender wage gap at 1st decile (bottom),2022,2022,14.3
+822,COL,Colombia,EMP9_5,Gender wage gap at median,2022,2022,1.9
+823,CRI,Costa Rica,EMP9_1,Gender wage gap at 1st decile (bottom),2022,2022,27.8
+824,CRI,Costa Rica,EMP9_5,Gender wage gap at median,2022,2022,1.5
+825,ISR,Israel,EMP9_1,Gender wage gap at 1st decile (bottom),2020,2020,13.3
+826,ISR,Israel,EMP9_1,Gender wage gap at 1st decile (bottom),2021,2021,15.9
+827,ISR,Israel,EMP9_9,Gender wage gap at 9th decile (top),2020,2020,29.0
+828,ISR,Israel,EMP9_9,Gender wage gap at 9th decile (top),2021,2021,27.8
+829,ISR,Israel,EMP9_5,Gender wage gap at median,2020,2020,21.6
+830,ISR,Israel,EMP9_5,Gender wage gap at median,2021,2021,25.4
