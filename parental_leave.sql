@@ -34,22 +34,32 @@ AND TIME = '2022'
 ORDER BY Value ASC;
 -- The US has none.
 
--- Let's look at the pay disparity among the top 10 countries for maternity leave in 2022.
-SELECT TOP(10) g.Country, AVG(g.Value) AS wage_gap_pct, mat.Value AS wks_leave
-FROM gender AS g
-JOIN mat
-ON g.Country = mat.Country
-WHERE g.TIME = '2022'
-AND g.IND = 'EMP9_5'
-AND mat.IND = 'EMP18_MAT'
-GROUP BY g.Country, mat.Value
-ORDER BY mat.Value DESC;
-
+-- Which 10 countries have the most weeks of maternity leave in 2022?
 SELECT TOP(10) *
 FROM mat
 WHERE TIME = '2022'
 AND IND = 'EMP18_MAT'
 ORDER BY Value DESC;
 
+-- And which 10 countries have the lowest average pay disparity between the sexes in 2022?
+SELECT TOP(10) Country, AVG(Value) AS avg_wage_disparity
+FROM gender
+WHERE TIME = '2022'
+GROUP BY Country
+ORDER BY avg_wage_disparity ASC;
+-- Looks like there are only 3 overlapping countries here.
+
+-- Let's look at which countries are spending the highest percentage of their GDP on family benefits.
+SELECT TOP (10) f.COU, f.percent_GDP, g.Country
+FROM family_spending AS f
+JOIN gender AS g
+ON f.COU = g.COU
+WHERE f.TIME = '2020'
+GROUP BY f.COU, f.percent_GDP, g.Country
+ORDER BY percent_GDP DESC;
+
 SELECT TOP(10)*
-FROM mat;
+FROM gender
+WHERE TIME = '2020'
+ORDER BY Value ASC;
+-- There are, again, 3 countries overlapping in these categories.
